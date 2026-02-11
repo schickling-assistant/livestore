@@ -2384,6 +2384,9 @@ importers:
       '@livestore/sync-cf':
         specifier: 0.4.0-dev.22
         version: 0.4.0-dev.22(n2yzkc27aln6asrelej25fje3m)
+      '@livestore/utils':
+        specifier: 0.4.0-dev.22
+        version: 0.4.0-dev.22(n2yzkc27aln6asrelej25fje3m)
       '@livestore/wa-sqlite':
         specifier: 0.4.0-dev.22
         version: 0.4.0-dev.22
